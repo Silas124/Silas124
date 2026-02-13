@@ -27,8 +27,7 @@ Estou desenvolvendo projetos práticos utilizando Python e ferramentas de análi
 🔹 **Análise de Vendas**  
 Projeto de análise exploratória utilizando Python para identificar padrões de faturamento por categoria.  
 
-👉 (coloque aqui o link do repositório)
-
+👉 https://github.com/Silas124/analise-vendas
 ---
 
 ## 🎯 Objetivo
